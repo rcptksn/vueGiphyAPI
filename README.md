@@ -1,6 +1,7 @@
 # vuegiphy
 
 > A Vue.js project
+Demo page: http://www.recepteksan.com/vueGiphy/
 
 ## Build Setup
 
