@@ -1,6 +1,6 @@
 # vuegiphy
 
-> A Vue.js project
+> Vue CLI kullanarak GiphyAPI kullanımı
 Demo page: http://www.recepteksan.com/vueGiphy/
 
 ## Build Setup
