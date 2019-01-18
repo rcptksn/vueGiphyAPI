@@ -48,15 +48,3 @@ export default {
   }
 }
 </script>
-
-<style lang="scss">
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  width:980px;
-  margin: 0 auto;
-  padding: 20px 0;
-}
-
-</style>
